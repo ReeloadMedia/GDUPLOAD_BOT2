@@ -5,9 +5,9 @@ class config:
     DATABASE_URL = ""
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "138073627228-vec95s673o22ov06586hd4q5ra3eltc2.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/ReeloadMediaChats"
 
 
 class BotCommands:
